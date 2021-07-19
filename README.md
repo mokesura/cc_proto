@@ -1,8 +1,8 @@
 # CC Proto
 CC Protoは、Pro Microをマイコンに使用した18キーのマクロパッドです。
 
-##特徴
-CC Protoは、下記の特徴を持っています。
+## 特徴
+CC Protoは、以下の特徴を持っています。
 
 - リバーシブル設計
 - Cherry MX互換/Kailh Choc V1＆V2/Kailh Mid-Height/ALPS系スイッチ対応
@@ -16,11 +16,10 @@ CC Protoは、下記の特徴を持っています。
 公開予定。
 
 ## ファームウェア
-
-- Hexファイル  
-公開予定。
-- [QMK Firmware ソースファイル](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/cc_proto)   
 編集中につき、内容がコロコロ変わります。
+
+- [Hexファイル](https://github.com/mokesura/cc_proto/tree/main/firmware)
+- [QMK Firmware ソースファイル](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/cc_proto)   
 
 ## キーボードの入手方法
 KiCadデータを公開予定。
