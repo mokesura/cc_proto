@@ -25,7 +25,10 @@ CC Protoは、以下の特徴を持っています。
 KiCadデータを公開予定。
 自分用に作成したキーボードですが、余った基板を頒布するかもしれません。
 
-## 回路図・部品リスト
+## 回路図
+- [回路図](https://github.com/mokesura/cc_proto/blob/main/cc_proto-schema.pdf)
+
+## 部品リスト
 公開予定。
 
 ## ライセンス
