@@ -1,4 +1,6 @@
 # CC Proto
+![CC Proto](https://github.com/mokesura/cc_proto/blob/main/img/cc_proto.jpg?raw=true)
+
 CC Protoは、リバーシブル設計の18キーのキーボードです。
 
 ## 特徴
