@@ -19,7 +19,7 @@ CC Protoは、以下の特徴を持っています。
 編集中につき、内容がコロコロ変わります。
 
 - [Hexファイル](https://github.com/mokesura/cc_proto/tree/main/firmware)
-- [QMK Firmware ソースファイル](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/cc_proto)   
+- [QMK Firmware ソースファイル](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)   
 
 ## キーボードの入手方法
 KiCadデータを公開予定。
