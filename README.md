@@ -1,11 +1,13 @@
 # CC Proto
-CC Protoは、Pro Microをマイコンに使用した18キーのマクロパッドです。
+![CC Proto](https://github.com/mokesura/cc_proto/blob/main/img/cc_proto.jpg?raw=true)
+
+CC Protoは、リバーシブル設計の18キーのキーボードです。
 
 ## 特徴
 CC Protoは、以下の特徴を持っています。
 
 - リバーシブル設計
-- Cherry MX互換/Kailh Choc V1＆V2/Kailh Mid-Height/ALPS系スイッチ対応
+- Cherry MX互換/Kailh Choc V1/Kailh Mid-Height/ALPS系スイッチ対応
   - Cherry MX互換/Kailh Mid-HeightスイッチはKailhソケットとはんだ付けの両方に対応。その他スイッチははんだ付けのみに対応。
   - 動作確認はCherry MX互換/Kailh Mid-Heightスイッチのみ。
 - QMK Firmware対応
@@ -22,11 +24,11 @@ CC Protoは、以下の特徴を持っています。
 - [QMK Firmware ソースファイル](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)   
 
 ## キーボードの入手方法
-KiCadデータを公開予定。
+KiCadデータを公開予定。  
 自分用に作成したキーボードですが、余った基板を頒布するかもしれません。
 
 ## 回路図
-- [回路図](https://github.com/mokesura/cc_proto/blob/main/cc_proto-schema.pdf)
+- [回路図](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
 
 ## 部品リスト
 公開予定。
@@ -39,4 +41,5 @@ MITライセンス。
 
 ## 連絡先
 - Chinatsu Chiba (azulee/mokesura)
-  - [Twitter](https://twitter.com/azulee)
+  - Twitter: [@azulee](https://twitter.com/azulee)
+  - E-Mail: mokesura@gmail.com
