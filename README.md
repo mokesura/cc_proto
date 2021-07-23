@@ -10,6 +10,7 @@ CC Protoは、以下の特徴を持っています。
 - Cherry MX互換/Kailh Choc V1/Kailh Mid-Height/ALPS系スイッチ対応
   - Cherry MX互換/Kailh Mid-HeightスイッチはKailhソケットとはんだ付けの両方に対応。その他スイッチははんだ付けのみに対応。
   - 動作確認はCherry MX互換/Kailh Mid-Heightスイッチのみ。
+  - 公開中のRev.3よりKailh Choc V2に対応予定。2021/07/22現在基板発注中のため、組み上げた結果によっては取り下げるかも…
 - QMK Firmware対応
 - Remap登録予定（VIAは動作未確認）
 - LED（SK6812MINI）によるレイヤーの色分け表示（使用中ほとんど見えません）
@@ -20,24 +21,26 @@ CC Protoは、以下の特徴を持っています。
 ## ファームウェア
 編集中につき、内容がコロコロ変わります。
 
-- [Hexファイル](https://github.com/mokesura/cc_proto/tree/main/firmware)
-- [QMK Firmware ソースファイル](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)   
+- [Hex File](https://github.com/mokesura/cc_proto/blob/main/pcb)
+- [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)   
 
 ## キーボードの入手方法
-KiCadデータを公開予定。  
+- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/firmware)
+
 自分用に作成したキーボードですが、余った基板を頒布するかもしれません。
 
 ## 回路図
-- [回路図](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
+- [回路図/Schematic](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
 
 ## 部品リスト
 公開予定。
 
 ## ライセンス
-MITライセンス。
+[MIT License](https://github.com/mokesura/cc_proto/blob/main/LICENSE)
 
 ## 使用したKiCadフットプリント
-ライブラリ化して公開予定。
+- [cc_proto.pretty](https://github.com/mokesura/cc_proto/tree/main/pcb/cc_proto.pretty) MIT Licenseのものを改変して利用。
+- [KBD - for building keyboard libraries](https://github.com/foostan/kbd) 改変元。
 
 ## 連絡先
 - Chinatsu Chiba (azulee/mokesura)
