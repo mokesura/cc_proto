@@ -13,7 +13,7 @@ CC Protoは、以下の特徴を持っています。
   - 動作確認はCherry MX互換/Kailh Mid-Heightスイッチのみ。
   - 公開中のRev.3よりKailh Choc V2に対応予定。2021/07/22現在基板発注中のため、組み上げた結果によっては取り下げるかも…
 - QMK Firmware対応
-- Remap登録予定（VIAは動作未確認）
+- [Remap](https://remap-keys.app)でのキーマップ変更に対応（VIAは動作未確認）
 - LED（SK6812MINI）によるレイヤーの色分け表示（使用中ほとんど見えません）
 
 ## 完成品を手にした方の利用ガイド
