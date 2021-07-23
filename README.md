@@ -7,6 +7,7 @@ CC Protoは、リバーシブル設計の18キーのキーボードです。
 CC Protoは、以下の特徴を持っています。
 
 - リバーシブル設計
+- マイコンにPro Microを使用。コンスル―による抜き差しに対応。
 - Cherry MX互換/Kailh Choc V1/Kailh Mid-Height/ALPS系スイッチ対応
   - Cherry MX互換/Kailh Mid-HeightスイッチはKailhソケットとはんだ付けの両方に対応。その他スイッチははんだ付けのみに対応。
   - 動作確認はCherry MX互換/Kailh Mid-Heightスイッチのみ。
