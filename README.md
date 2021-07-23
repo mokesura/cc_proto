@@ -21,7 +21,7 @@ CC Protoは、以下の特徴を持っています。
 ## ファームウェア
 編集中につき、内容がコロコロ変わります。
 
-- [Hex File](https://github.com/mokesura/cc_proto/blob/main/pcb)
+- [Hex File](https://github.com/mokesura/cc_proto/tree/main/firmware)
 - [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)   
 
 ## キーボードの入手方法
