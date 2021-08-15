@@ -16,8 +16,10 @@ CC Protoは、以下の特徴を持っています。
 - [Remap](https://remap-keys.app)でのキーマップ変更に対応（VIAは動作未確認）
 - LED（SK6812MINI）によるレイヤーの色分け表示（使用中ほとんど見えません）
 
-## 完成品を手にした方の利用ガイド
-公開予定。
+## 組み立て済みキーボードを手にした方向けの利用ガイド
+千葉千夏から組み立て済みのキーボードを受け取った方は、以下のページをご覧ください。
+
+- [「CC Proto」組み立て済みキーボードを手にした方向けの利用ガイド](https://github.com/mokesura/cc_proto/blob/doc_draft/doc/0_guide_for_prepared_keyboard.md)
 
 ## ファームウェア
 編集中につき、内容がコロコロ変わります。
@@ -26,9 +28,10 @@ CC Protoは、以下の特徴を持っています。
 - [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)
 
 ## キーボードの入手方法
-- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/pcb)
+自分用（というか、知り合いに使ってみてもらう用）に作成したキーボードですが、余った基板を頒布するかもしれません。
+ビルドガイドの作成予定は、今のところありません。
 
-自分用に作成したキーボードですが、余った基板を頒布するかもしれません。
+- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/pcb)
 
 ## 回路図
 - [回路図/Schematic](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
