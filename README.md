@@ -10,8 +10,8 @@ CC Protoは、以下の特徴を持っています。
 - マイコンにPro Microを使用。コンスル―による抜き差しに対応。
 - Cherry MX互換/Kailh Choc V1/Kailh Mid-Height/ALPS系スイッチ対応
   - Cherry MX互換/Kailh Mid-HeightスイッチはKailhソケットとはんだ付けの両方に対応。その他スイッチははんだ付けのみに対応。
+  - Rev.3よりKailh Choc V2に対応。ただし、Rev.3ではスイッチの固定用足を切断する必要あり。Rev.4以降はスイッチの加工なしで取り付けができます。
   - 動作確認はCherry MX互換/Kailh Mid-Heightスイッチのみ。
-  - 公開中のRev.3よりKailh Choc V2に対応予定。2021/07/22現在基板発注中のため、組み上げた結果によっては取り下げるかも…
 - QMK Firmware対応
 - [Remap](https://remap-keys.app)でのキーマップ変更に対応（VIAは動作未確認）
 - LED（SK6812MINI）によるレイヤーの色分け表示（使用中ほとんど見えません）
@@ -31,7 +31,7 @@ CC Protoは、以下の特徴を持っています。
 自分用（というか、知り合いに使ってみてもらう用）に作成したキーボードですが、余った基板を頒布するかもしれません。
 ビルドガイドの作成予定は、今のところありません。
 
-- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/pcb)
+- [PCB Data - Rev.4](https://github.com/mokesura/cc_proto/tree/main/pcb)
 
 ## 回路図
 - [回路図/Schematic](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
