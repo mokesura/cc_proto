@@ -36,8 +36,27 @@ CC Protoは、以下の特徴を持っています。
 ## 回路図
 - [回路図/Schematic](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
 
-## 部品リスト
-公開予定。
+## 組み立てに必要な部品リスト
+
+### 基板
+
+- PCB×1
+- ボトムプレート×1（データ未作成。PCBで代用可）
+- トッププレート×1（データ公開予定。必要に応じて使用、Kailh Mid-Height/ALPS系スイッチには非対応）
+
+### 基板以外の部品
+
+- Pro Micro×1
+- 12pin コンスルー×2（必要に応じて）
+- ダイオード（1N4148または1N4148W）×18
+- SK6812MINI×1（オプション）
+- Kailh MX スイッチソケット×18（必要に応じて。Cherry MX互換/Kailh Mid-Heightスイッチのみ対応）
+- タクトスイッチ（3.5x6.0x4.3mmのもの） ×1（Pro Microが露出している構造のため、RSTとGNDをショートさせることで代用可能）
+- キースイッチ×18（Cherry MX互換/Kailh Choc V1/Kailh Choc V2/Kailh Mid-Height/ALPS系に対応。一応、混ぜても使用できますが、トッププレート使用時には工夫が必要です）
+- キーキャップ×18（キースイッチに対応したもの）
+- M2スペーサー、M2ネジ
+  - 基板にはネジ穴が5つ開いてますが、中央を除いた4つをネジ止めすれば問題ないと思います。
+  - スペーサーの長さは使用するスイッチによって異なります。Cherry MX互換スイッチ使用の場合、M2スペーサー3.5mm×8、M2ネジ8mm×4、M2ネジ3mm×4で組み立てしています。
 
 ## ライセンス
 [MIT License](https://github.com/mokesura/cc_proto/blob/main/LICENSE)
