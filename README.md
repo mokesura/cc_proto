@@ -22,7 +22,7 @@ CC Protoは、以下の特徴を持っています。
 - [「CC Proto」組み立て済みキーボードを手にした方向けの利用ガイド](https://github.com/mokesura/cc_proto/blob/main/doc/0_guide_for_prepared_keyboard.md)
 
 ## ファームウェア
-編集中につき、内容がコロコロ変わります。
+編集中につき、内容がコロコロ変わります。デフォルトファームウェアはRemap/VIA対応です。
 
 - [Hex File](https://github.com/mokesura/cc_proto/tree/main/firmware)
 - [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)
