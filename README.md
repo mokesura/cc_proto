@@ -19,7 +19,7 @@ CC Protoは、以下の特徴を持っています。
 ## 組み立て済みキーボードを手にした方向けの利用ガイド
 千葉千夏から組み立て済みのキーボードを受け取った方は、以下のページをご覧ください。
 
-- [「CC Proto」組み立て済みキーボードを手にした方向けの利用ガイド](https://github.com/mokesura/cc_proto/blob/doc_draft/doc/0_guide_for_prepared_keyboard.md)
+- [「CC Proto」組み立て済みキーボードを手にした方向けの利用ガイド](https://github.com/mokesura/cc_proto/blob/main/doc/0_guide_for_prepared_keyboard.md)
 
 ## ファームウェア
 編集中につき、内容がコロコロ変わります。
