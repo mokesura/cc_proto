@@ -129,7 +129,8 @@ Amazonとかにも取り扱いがありますし、キーボード専門店に�
 - [遊舎工房](https://shop.yushakobo.jp/)
 - [TALPKEYBOARD - 自作キーボードとパーツのショップ -](https://talpkeyboard.net/)
 - [Kochi Keyboard](https://kochikeyboard.stores.jp/)
-- [Amazon.co.jp : 「キーボード キーキャップ」で検索](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89+%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_1)
+- [BOOTH :「キーキャップ」で検索（在庫なしを除く）](https://booth.pm/ja/search/%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97?in_stock=true)
+- [Amazon.co.jp :「キーボード キーキャップ」で検索](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89+%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_1)
 
 キーキャップを交換する場合は、現在付いているキーキャップを引き抜く必要があります。まっすぐに引き抜いてください。
 
