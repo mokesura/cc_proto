@@ -1,4 +1,4 @@
-671287209409290
+668037509791043
 Keebio-Parts
 3_Pin_Jumper
 
@@ -1673,42 +1673,28 @@ SK6812MINI_no_silk
 4
 4
 cc_proto
-CherryMX_MidHeight_Hotswap_Choc_Alps_v2
+CherryMX_MidHeight_Hotswap_Choc12_Alps_v2
 
 
 0
 15
 2
 cc_proto
-D3_TH_SMD
+D3_TH_SMD_Text-Added
 Resitance 3 pas
 R
 0
 6
 2
 cc_proto
-M2_Threads_v2
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-1
-0
-cc_proto
-ProMicro_v2
+ProMicro_v2_Text-Changed
 
 
 0
 48
 24
 cc_proto
-ResetSW
-
-
-0
-2
-2
-cc_proto
-SK6812MINI_rev
+SK6812MINI_rev_Text-Added
 
 
 0
@@ -2863,14 +2849,14 @@ waffle
 0
 0
 mokesura_kbd_footprint
-CherryMX_MidHeight_Hotswap_Choc_Alps_v2
+CherryMX_MidHeight_Hotswap_Choc1_alps
 
 
 0
 15
 2
 mokesura_kbd_footprint
-CherryMX_MidHeight_Hotswap_Choc_alps
+CherryMX_MidHeight_Hotswap_Choc12_Alps
 
 
 0
