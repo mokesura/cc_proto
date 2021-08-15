@@ -28,10 +28,10 @@ CC Protoは、以下の特徴を持っています。
 - [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_proto/keyboards/mokesura/cc_proto)
 
 ## キーボードの入手方法
-自分用（というか、知り合いに使ってみてもらう用）に作成したキーボードですが、余った基板を頒布するかもしれません。
+自分用（というか、知り合いに使ってみてもらう用）に作成したキーボードですが、余った基板を頒布するかもしれません。  
 ビルドガイドの作成予定は、今のところありません。
 
-- [PCB Data - Rev.4](https://github.com/mokesura/cc_proto/tree/main/pcb)
+- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/pcb) KiCadで作成した基板データ、ガーバーデータを公開しています。
 
 ## 回路図
 - [回路図/Schematic](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
