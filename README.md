@@ -31,7 +31,11 @@ CC Protoは、以下の特徴を持っています。
 自分用（というか、知り合いに使ってみてもらう用）に作成したキーボードですが、余った基板を頒布するかもしれません。  
 ビルドガイドの作成予定は、今のところありません。
 
-- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/pcb) KiCadで作成した基板データ、ガーバーデータを公開しています。
+### PCB Data / Plate Data
+KiCadで作成した基板データ、ガーバーデータを公開しています。
+
+- [PCB Data](https://github.com/mokesura/cc_proto/tree/main/pcb) 
+- [Top Plate Data](https://github.com/mokesura/cc_proto/tree/main/pcb_top) 
 
 ## 回路図
 - [回路図/Schematic](https://github.com/mokesura/cc_proto/blob/main/pcb/cc_proto-Schematic.pdf)
@@ -42,7 +46,7 @@ CC Protoは、以下の特徴を持っています。
 
 - PCB×1
 - ボトムプレート×1（データ未作成。PCBで代用可）
-- トッププレート×1（データ公開予定。必要に応じて使用、Kailh Mid-Height/ALPS系スイッチには非対応）
+- トッププレート×1（必要に応じて使用、Kailh Mid-Height/ALPS系スイッチには非対応）
 
 ### 基板以外の部品
 
