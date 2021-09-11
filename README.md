@@ -59,7 +59,7 @@ KiCadで作成した基板データ、ガーバーデータを公開していま
 - キースイッチ×18（Cherry MX互換/Kailh Choc V1/Kailh Choc V2/Kailh Mid-Height/ALPS系に対応。一応、混ぜても使用できますが、トッププレート使用時には工夫が必要です）
 - キーキャップ×18（キースイッチに対応したもの）
 - M2スペーサー、M2ネジ
-  - 基板にはネジ穴が5つ開いてますが、中央を除いた4つをネジ止めすれば問題ないと思います。
+  - PCBにはネジ穴が5つ開いてますが、中央を除いた4つをネジ止めすれば問題ないと思います（トッププレートは、ネジ穴4つのデータを公開しています）。
   - スペーサーの長さは使用するスイッチによって異なります。Cherry MX互換スイッチ使用の場合、M2スペーサー3.5mm×8、M2ネジ8mm×4、M2ネジ3mm×4で組み立てしています。
 - ゴム脚（好みの大きさのもの）×4
 
@@ -71,6 +71,6 @@ KiCadで作成した基板データ、ガーバーデータを公開していま
 - [KBD - for building keyboard libraries](https://github.com/foostan/kbd) 改変元。
 
 ## 連絡先
-- Chinatsu Chiba (azulee/mokesura)
+- 千葉千夏 / Chinatsu Chiba (azulee/mokesura)
   - Twitter: [@azulee](https://twitter.com/azulee)
   - E-Mail: mokesura@gmail.com
